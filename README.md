@@ -11,6 +11,8 @@ It comes with 3 sorting algorithms:
 
 To change between the different sorting algorithms change the function it is calling inside draw() by commenting th unused functions and uncommenting the function you want to use.
 Default is insertionSort():
+```
     //selectionSort();
     //bubbleSort();
     insertionSort();
+```
